@@ -1,0 +1,3 @@
+Model,MAE,RMSE,MAPE_%
+Prophet-style (trend + Fourier seasonality),42.731278296342744,56.190569441019925,5.144002758341116
+Holt-Winters-style (triple exp. smoothing),82.50713411296329,96.4766768190461,9.42269428652322
